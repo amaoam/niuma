@@ -1,4 +1,4 @@
-# niuma好的！以下是一个简单的 `README.md` 文件，用于描述您的牛马时钟项目。您可以根据需要进一步修改和补充。
+
 
 ---
 
@@ -50,8 +50,4 @@ cow-horse-clock/
 1. 打开 `index.html` 文件。
 2. 使用浏览器的截图工具或第三方工具（如 [Lightshot](https://app.prntscr.com/)）截取页面。
 3. 将截图保存为 `screenshot.png` 并放入项目文件夹中。
-4. 在 `README.md` 中替换 `![牛马时钟截图](https://via.placeholder.com/400x300)` 为 `![牛马时钟截图](screenshot.png)`。
-
----
-
-希望这个 `README.md` 文件对您有帮助！如果有其他需求，请随时告诉我！ 😊
+4. 在 `README.md` 中替换 `![牛马时钟截图](https://via.placeholder.com/400x300)` 为 `![牛马时钟截图](screenshot.pn
